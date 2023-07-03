@@ -1,5 +1,8 @@
 # Documentation
 
+## Explaination
+The aim of this project is to recover all artist and song links on all music streaming platforms.
+
 ## Installation
 
 ```bash
@@ -44,4 +47,4 @@ php vendor/bin/phpunit tests
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
